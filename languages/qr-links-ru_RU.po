@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QR code for Links\n"
+"POT-Creation-Date: 2019-12-02 15:38+0400\n"
+"PO-Revision-Date: 2019-12-02 15:44+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: qrlinks.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/admin-page.php:13
+msgid "QR Link Settings"
+msgstr "Настройки QR Links"
+
+#: admin/admin-page.php:20
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: admin/admin-page.php:33
+msgid "Links"
+msgstr "Ссылки"
+
+#: admin/admin-page.php:38 admin/admin-page.php:41
+msgid "Default link"
+msgstr "Ссылка по умолчанию"
+
+#: admin/admin-page.php:46
+msgid "Link to the AppStore (for iOS devices)"
+msgstr "Ссылка на AppStore (для iOS устройств)"
+
+#: admin/admin-page.php:49
+msgid "Link for iOS"
+msgstr "Ссылка для iOS"
+
+#: admin/admin-page.php:54
+msgid "Link to Google Play (for Android devices)"
+msgstr "Ссылка на Google Play (для Android устройств)"
+
+#: admin/admin-page.php:57
+msgid "Link for Android"
+msgstr "Ссылка для Android"
+
+#: admin/admin-page.php:62
+msgid "Link to the Microsoft Store (for Windows Mobile devices)"
+msgstr "Ссылка на Microsoft Store (для Windows Mobile устройств)"
+
+#: admin/admin-page.php:65
+msgid "Link for Windows Mobile"
+msgstr "Ссылка для Windows Mobile"
+
+#: qrlinks.php:21
+msgid "URL Image"
+msgstr "Ссылка на изображение"
+
+#. Plugin Name of the plugin/theme
+msgid "QR Links"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"QR code generator and redirection of mobile devices to their own application "
+"sites (Libraries used: <a href=\"http://phpqrcode.sourceforge.net/index.php"
+"\" target=\"_blank\">PHP QR Code</a>, <a href=\"http://mobiledetect.net\" "
+"target=\"_blank\">Mobile Detect</a>)"
+msgstr ""
+"Генератор QR-кода и перенаправление мобильных устройств на их собственные "
+"сайты приложений (Используемые библиотеки: <a href=\"http://phpqrcode."
+"sourceforge.net/index.php\" target=\"_blank\">PHP QR Code</a>, <a href="
+"\"http://mobiledetect.net\" target=\"_blank\">Mobile Detect</a>)"
+
+#. Author of the plugin/theme
+msgid "Promo-Z"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://promo-z.ru/"
+msgstr ""
+
+#~ msgid "QR code for Links"
+#~ msgstr "QR код для ссылок"
